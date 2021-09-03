@@ -1,5 +1,7 @@
 # Gympass
 
+This is the solution to this coding challenge [Gympass](https://github.com/Gympass/interview-test).
+
 This app was built using Elixir. Make sure that you have it installed on your machine ;)
 
 ## Running tests
